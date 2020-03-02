@@ -1,0 +1,11 @@
+My Associate id:  844589
+Other team Members: 844538, 844624,844549, 844620
+Team lead: 844549
+My role in team:
+1. Appointment form,Validation,jason server
+My development files:
+1. Two way bindind in the forms and components except contact us,validations
+2. All services 
+
+I was weak in:
+1. Reactive forms
